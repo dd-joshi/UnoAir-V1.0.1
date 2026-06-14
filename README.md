@@ -4,7 +4,7 @@ Arduino-based automatic fan controller with manual override for air purification
 
 ## Overview
 
-UnoAir is an intelligent fan control system that automatically adjusts fan speed based on real-time air quality measurements from a PM2.5 sensor, while allowing manual override control via a potentiometer. The system uses an Arduino Uno with 25kHz PWM frequency for efficient and quiet fan operation.
+UnoAir is an intelligent fan control system that automatically adjusts fan speed based on real-time air quality measurements from a PM2.5 sensor, while allowing manual override control via a potentiometer.
 
 ## Features
 
@@ -18,6 +18,11 @@ UnoAir is an intelligent fan control system that automatically adjusts fan speed
 - **25kHz PWM Output**: Optimized frequency for fan operation (quieter, more efficient)
 - **Sensor Failsafe**: Falls back to manual control if sensor signal is lost
 - **Debug Serial Output**: Real-time monitoring of sensor readings and fan speeds
+
+## Demo & Resources
+
+- **📺 [Video Demonstration](https://youtu.be/Vonsc9QrG_Y)** - See UnoAir in action
+- **🔧 [3D Mount/Adapter](https://www.thingiverse.com/thing:3521586)** - 3D printable enclosure and mounting solution
 
 ## Hardware Requirements
 
